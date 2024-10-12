@@ -40,8 +40,9 @@ h1 {
   border-radius: 30px;
   background-color: black;
   color: white;
-  margin: 0 auto;
   display: block;
+  margin: 0 auto;
+  font-weight: bold;
 }
 
 hr {
